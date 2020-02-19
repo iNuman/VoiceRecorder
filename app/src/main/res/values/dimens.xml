@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chronometer_top_margin">64dp</dimen>
+    <dimen name="chrono_meter_text_size">64sp</dimen>
+    <dimen name="press_mic_btn_txt_size">18sp</dimen>
+    <dimen name="margins_">32dp</dimen>
+    <dimen name="line_height">32dp</dimen>
+    <dimen name="padding">16dp</dimen>
+    <dimen name="bottom_sheet_head_padding">24dp</dimen>
+    <dimen name="bottom_sheet_txt_size">16sp</dimen>
+    <dimen name="bottom_sheet_margins">32dp</dimen>
+    <dimen name="bottom_sheet_padding">16dp</dimen>
+</resources>
