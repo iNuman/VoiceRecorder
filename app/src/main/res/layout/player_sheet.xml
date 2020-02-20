@@ -23,6 +23,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="4"
+            android:layout_marginTop="6dp"
             android:paddingTop="@dimen/bottom_sheet_head_padding"
             android:paddingBottom="@dimen/bottom_sheet_head_padding"
             app:srcCompat="@drawable/player_header_icon" />
@@ -110,6 +111,8 @@
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/bottom_sheet_margins"
+        android:thumbTint="@android:color/white"
+        android:progressTint="@android:color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

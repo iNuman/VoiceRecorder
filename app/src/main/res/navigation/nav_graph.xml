@@ -12,7 +12,11 @@
         tools:layout="@layout/fragment_recording" >
         <action
             android:id="@+id/action_recordingFragment_to_recordingListFragment2"
-            app:destination="@id/recordingListFragment" />
+            app:destination="@id/recordingListFragment"
+            app:exitAnim="@anim/fade_out"
+            app:enterAnim="@anim/slide_in"
+            app:popEnterAnim="@anim/fade_in_for_back_btn"
+            app:popExitAnim="@anim/slide_out_on_back_btn"/>
     </fragment>
     <fragment
         android:id="@+id/recordingListFragment"
