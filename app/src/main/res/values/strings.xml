@@ -9,4 +9,5 @@
     <string name="formating_pattern">yyyy.MM.dd_hh:mm:ss</string>
     <string name="recording_started_with_file_name">Recording Started </string>
     <string name="recording_stopped_with_file_saved">Recording Stopped and Saved in Path</string>
+    <string name="date">Date</string>
 </resources>
