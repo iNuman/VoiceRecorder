@@ -95,7 +95,6 @@ class RecordingFragment : Fragment(layout.fragment_recording) {
         record_filename.text = "${getString(recording_started_with_file_name)}${" "}$FILE_NAME"
 
         mediaRecorder = MediaRecorder()
-        mediaRecorder!!.let {
             mediaRecorder.apply {
                 setAudioSource(AudioSource.MIC);
                 setOutputFormat(OutputFormat.THREE_GPP);
@@ -104,19 +103,17 @@ class RecordingFragment : Fragment(layout.fragment_recording) {
                 prepare();
                 start();
             }
-        }
+
 
     }
 
     private fun stopRecording() {
         record_timer.stop()
         record_filename.text = "${getString(recording_stopped_with_file_saved)}${" "}$PATH_NAME"
-        mediaRecorder!!.let {
+
             mediaRecorder.apply {
                 stop()
                 release()
-                null
-            }
         }
     }
 
