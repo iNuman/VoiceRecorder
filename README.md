@@ -9,5 +9,11 @@ Clone the repository using: https://github.com/iNuman/VoiceRecorder
 This project still got things to fix because of busy schedule I didn't got a time                                                           Fork this repo                                                                                                                             
 Clone it into your local machine using link above                                                                                            Create a pull request
 
-# Support
-Reach out to me at one of the following places!                                                                                        Email    : i_numn@yahoo.com                                                                                                         LinkedIn : https://www.linkedin.com/in/-inuman/                                                                                   Instagram: https://www.instagram.com/inoumn/                                                                                         Facebook : https://web.facebook.com/iNuman51                                                                                            Github   : https://github.com/iNuman/
+# Contact
+Reach out to me at one of the following places!   
+<p align="left">
+<ul style="list-style-type:circle;">
+  <li>LinkedIn  : <a href="https://www.linkedin.com/in/-inuman/">https://www.linkedin.com/in/-inuman/</a>
+  <li>Instagram : <a href="https://instagram.com/inoumn">https://instagram.com/inoumn</a></li>
+  <li>Facebook  : <a href="https://www.facebook.com/iNuman51">https://www.facebook.com/iNuman51</a></li>
+</ul></p>
